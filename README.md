@@ -9,5 +9,5 @@ Enlarging the dataset with more various CVs would indubitably yield better outco
 - Loading the training data as well as the NLP model
 - Only adding NER (Named Entity Recognition) into the NLP pipeline
 - Adding labels to the pipeline
-- Training the model and saving it so as to load it and not retrain it every time.
-- Test the model using actual resumes by converting PDFs into text using PyMuPDF.
+- Training the model and saving it so as to load it and not retrain it every time
+- Testing the model using actual resumes by converting PDFs into text using PyMuPDF
